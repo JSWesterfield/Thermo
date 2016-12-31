@@ -1,0 +1,16 @@
+h1 {
+	color: red;
+	background-color: green;
+}
+
+body {
+	margin-left: 20px;
+}
+
+#thermo-icon {
+	color: blue;
+}
+
+.thermo-background {
+	color: purple;
+}
